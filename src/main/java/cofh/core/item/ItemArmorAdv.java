@@ -35,7 +35,7 @@ public class ItemArmorAdv extends ItemArmor {
 	public ItemArmorAdv setArmorTextures(String[] textures) {
 
 		this.textures = textures;
-		return this;
+		returneame esta;
 	}
 
 	public ItemArmorAdv setShowInCreative(boolean showInCreative) {
